@@ -1,0 +1,17 @@
+{
+  "name": "fasttrack_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@playwright/test": "^1.35.1"
+  }
+}
